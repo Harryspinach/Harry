@@ -2,4 +2,7 @@ reaper
 solider 76
 mercy
 Brig
+
+D.va
+Roadhog
 .........
